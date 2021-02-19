@@ -1,4 +1,4 @@
 # Fundamentals-of-Programming
 ```
-                                                         --- Python Projects ---
+                                                       --- Python Projects ---
 ``` 
