@@ -1,0 +1,17 @@
+561,Star Wars,Space-ships and The FORCE are in this movie,Adventure-Fantasy
+321,The Silence of the Lambs,Best detective vs.criminal story ever,Crime-Thriller
+320,Fight Club,We do not talk about this movie,Action - Drama
+919,Prestige,A movie with two magicians,Drama-Fantasy
+592,Good Will Hunting,A boy from the geto,who is good at math
+576,Coach Carter,Samuel L.Jackson is a basketball-coach nothing to be add,Drama - Sport
+324,The Shawshank Redemption,Two imprisoned men bond and help each other to redeam themselfs,Drama
+505,Star Wars,Space-ships and The FORCE are in this movie,Adventure-Fantasy
+768,Inception,A dream in a dream in a dream,Action - Drama
+898,Fight Club,We do not talk about this movie,Action - Drama
+213,The Shawshank Redemption,Two imprisoned men bond and help each other to redeam themselfs,Drama
+413,The Silence of the Lambs,Best detective vs.criminal story ever,Crime-Thriller
+833,Good Will Hunting,A boy from the geto,who is good at math
+687,Coach Carter,Samuel L.Jackson is a basketball-coach nothing to be add,Drama - Sport
+624,Interstellar,A 3 hour movie with Matthew McConaughey,Sci-Fi
+803,Prestige,A movie with two magicians,Drama-Fantasy
+322,Forest Gump,Unfold through the perspective of a man with an IQ of 75,Drama-Romance
